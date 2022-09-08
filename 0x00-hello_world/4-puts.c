@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - entry point
  * Description : C program that prints with puts function
