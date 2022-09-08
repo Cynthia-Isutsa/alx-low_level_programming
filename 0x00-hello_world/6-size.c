@@ -1,14 +1,9 @@
 #include<stdio.h>
 
 /**
- *
- * *main - program that print size of data types
- *
- * *
- *
- * * Return: Always 0
- *
- * */
+ *main - program that print size of data types
+ * Return: Always 0
+ */
 
 int main(void)
 
