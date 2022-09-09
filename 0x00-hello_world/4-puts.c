@@ -4,7 +4,7 @@
  * main - entry point
  * Description : C program that prints with puts function
  * printf not allowed
- * By default returns 0
+ * By default returns zero
  */
 
 int main(void)
