@@ -5,9 +5,9 @@
 /**
  * main - entry point
  *
- * Descrption  - print whether the number is positive or negative
+ * Description: print value of n status; zero, positive or negative
  *
- * return:0
+ * return: 0
 */
 
 int main(void)
