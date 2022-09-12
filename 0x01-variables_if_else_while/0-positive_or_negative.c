@@ -7,7 +7,7 @@
  *
  * Description: print value of n status; zero, positive or negative
  *
- * return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
