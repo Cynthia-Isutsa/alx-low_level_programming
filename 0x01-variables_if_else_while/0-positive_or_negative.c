@@ -7,7 +7,7 @@
  *
  * Descrption  - print whether the number is positive or negative
  *
- * return a zero
+ * return:0
 */
 
 int main(void)
