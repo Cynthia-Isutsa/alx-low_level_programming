@@ -2,10 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
- * main - entry point
+/**
+ * main - Entry point
  *
- * Description: prints last digit stored in n 
+ * Description: prints last digit stored in n:
+ * 		greater than, is zero and is not less than 6.
  *
  * Return: 0
  */
