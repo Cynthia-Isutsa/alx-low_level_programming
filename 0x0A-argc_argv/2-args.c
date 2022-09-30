@@ -1,31 +1,19 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 /**
-* main - Program that multiplies two numbers
+* main - Program that prints its name, followed by a new line.
 * @argc: Number of command lines arguments.
 * @argv: Character of arrays.
 *
-* Return: Result of multiplication or 1 when does not receive two arguments.
+* Return: 0.
 */
 int main(int argc, char *argv[])
 {
 	int i;
-	int result = 1;
 
-	if (argc < 3 || argc >= 4)
+	for (i = 0; i < argc; i++)
 	{
-		printf("Error\n");
-		return (1);
-	}
-	else
-	{
-		for (i = 1; i < argc; i++)
-		{
-			result *= atoi(argv[i]);
-		}
-
-		printf("%d\n", result);
+		printf("%s\n", argv[i]);
 	}
 	return (0);
 }
